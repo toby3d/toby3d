@@ -1,5 +1,5 @@
-## 🚚 I moved to GitLab!
-And I haven't updated the repositories at GitHub since 2018. Look for all the available code in [my GitLab profile](https://gitlab.com/toby3d).
+## 🚚 I moved from GitHub!
+And I haven't updated the repositories here since 2018. Look for all the available code in [my Gitea](https://source.toby3d.me/).
 
 ## 📬 Не спамьте меня вакансиями!
 Ознакомьтесь с [резюме](https://toby3d.ru/resume/) прежде чем предлагать вакансию.  
